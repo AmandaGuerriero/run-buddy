@@ -1,16 +1,17 @@
+/* Global Styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* Body Color and Fonts */
 body {
-    /* Color and Fonts */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
 
-/* Style of Header */
+/* Header Style Start */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -43,7 +44,9 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+/* Header Style End */
 
+/* Footer Style Start */
 footer {
     background: #fce138;
     width: 100%;
@@ -67,6 +70,7 @@ footer div {
 footer a {
     color: #024e76;
 }
+/* Footer Style End */
 
 section {
     padding: 60px;
@@ -80,6 +84,7 @@ section {
     background-position: center;
     position: relative;
 }
+/* Hero Style End */
 
 /* Hero Form Style Start */
 .hero-form {
@@ -92,7 +97,6 @@ section {
     bottom: 120px;
     right: 140px;
 }
-/* Hero Form Style End */
 
 h3 .hero-form {
     margin: 0;
@@ -125,4 +129,4 @@ button {
     border: none;
     font-size: 16px;
 }
-/* Hero Style End */
+/* Hero Form Style End */
