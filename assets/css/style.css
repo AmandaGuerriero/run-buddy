@@ -17,7 +17,7 @@ body {
 .text-left {
     text-align: left;
 }
-/* Global Styles Start*/
+/* Global Styles End*/
 
 /* Header Style Start */
 header {
@@ -92,9 +92,7 @@ section {
     background-position: center;
     position: relative;
 }
-/* Hero Style End */
 
-/* Hero Form Style Start */
 .hero-form {
     background-color:#fce138;
     color: #024e76;
@@ -137,7 +135,7 @@ button {
     border: none;
     font-size: 16px;
 }
-/* Hero Form Style End */
+/* Hero Style End */
 
 /* Main Section Global Syles Start */
 .section-title {
