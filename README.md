@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://amandaguerriero.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Amanda Guerriero
+Made with ❤️ by Amanda Guerriero!
 
 ### ©️2019 Run Buddy, Inc 
